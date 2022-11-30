@@ -1,2 +1,2 @@
-# OLD-WP-THEME-MODEL
-Overhauling the development method before the 5.9 WordPress update.
+# _Overhauling the WordPress development methods (theme's, plugins, etc) before the 5.9, the official "block themes" update._
+
