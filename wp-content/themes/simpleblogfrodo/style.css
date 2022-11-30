@@ -1,0 +1,16 @@
+/*
+Theme Name: Simple Blog Frodo
+Author: Frodo Silveira
+Author URI: https://github.com/FrodoMenezes
+Author: Frodo Menezes
+Description: Reviewing old WP theme's develpment before wordpress 5.9, the official "block themes" update
+Version: 1.0
+Text Domain: simple-blog-frodo
+License GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, education, portfolio
+*/
+
+section {
+    background-color: yellow;
+}
