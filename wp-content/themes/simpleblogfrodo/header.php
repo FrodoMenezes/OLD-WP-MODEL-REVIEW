@@ -18,7 +18,17 @@
                 <div>Logo</div>
                 <div>
                     <div>Conta</div>
-                    <div>Menu</div>
+                    <div>
+                        <nav>
+                            <?php 
+                                wp_nav_menu(
+                                    array(
+                                        'theme_location'	=> 'fancy_lab_main_menu'
+                                    )
+                                ); 
+                            ?>
+                        </nav>
+                    </div>
                 </div>
             </section>
         </header>
